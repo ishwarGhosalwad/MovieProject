@@ -36,6 +36,3 @@ npm run start
 npm run test 
 npm run typecheck 
 ```
-
-## Deployment
-Vercel Link : https://next-movie-blue.vercel.app/
